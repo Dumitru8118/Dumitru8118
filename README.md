@@ -1,7 +1,6 @@
 ### Hi there, I'm Andrew 👋 
-
-
-<br />
+  
+    I'm from Romania and I'm a junior developer with experience in designing and implementing software solutions. Focused on C#(.Net) / JavaScript but not limited to that, always eager to learn and improve my skills.  
 
 ## I'm a Student, Hardworker, Junior Developer, and a Continuous Learner!!
 
