@@ -14,9 +14,6 @@
 ### Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/Dumitru_Andrei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dumitru-andrei-769031199/)](https://www.linkedin.com/in/dumitru-andrei-769031199/) 
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [![Gmail Badge](https://img.shields.io/badge/-alin.constantin1695@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dumitru.andrei55@gmail.com)](mailto:dumitru.andrei55@gmail.com)
 
 
