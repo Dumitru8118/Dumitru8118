@@ -40,4 +40,4 @@
 
 [instagram]:https://www.instagram.com/dumitru8118/
 [linkedin]: https://www.linkedin.com/in/dumitru-andrei-769031199/
-[website]: https://osf.digital/careers/jobs/osf-academy-for-students
+[website]: https://osf.digital/careers/jobs/osf-academy-for-students/
