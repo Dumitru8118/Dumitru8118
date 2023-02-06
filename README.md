@@ -35,6 +35,6 @@
 <br />
 <br />
 
-[instagram]:https://www.instagram.com/dumitru8118/
+[instagram]:[https://www.instagram.com/dumitru8118/](https://www.instagram.com/_dumitrua/) 
 [linkedin]: https://www.linkedin.com/in/dumitru-andrei-769031199/
 [website]: https://osf.digital/careers/jobs/osf-academy-for-students/
