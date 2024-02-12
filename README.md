@@ -2,13 +2,7 @@
   
     I'm from Romania  and I'm a developer with experience in designing and implementing software solutions. Focused on C#(.Net) / JavaScript but not limited to that, always eager to learn and improve my skills.  
 
-## I'm a Student, Hardworker, Junior Developer, and a Continuous Learner!!
-
-- 🔭 I just finished a dev school of 1 month: [OSF Backend with Node.Js academia][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking after remote or office-based work / projects!
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to whatch animes and sing Sam Smith in the shower
+## I'm a Student, Hardworker, Experienced Developer, and a Continuous Learner!!
 
 ### Connect with me:
 
