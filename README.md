@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrew 👋 
   
-    I'm from Romania  and I'm a engineer with experience in designing and implementing software solutions. Focused on C#(.Net) / JavaScript but not limited to that, always eager to learn and improve my skills.  
+    I am a software engineer from Romania with extensive experience in designing and implementing robust software solutions. Specializing in C# (.NET), JavaScript, and Python, I am committed to continuous learning and skill enhancement to stay at the forefront of technology.
 
 ## Fresh Graduade, Hardworker, Experienced Engineer, and a Continuous Learner!!
 
@@ -28,5 +28,4 @@
 <br />
 <br />
 
-[linkedin]: https://www.linkedin.com/in/dumitru-andrei-769031199/
-[website]: https://osf.digital/careers/jobs/osf-academy-for-students/
+
