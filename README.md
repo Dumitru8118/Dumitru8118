@@ -1,14 +1,13 @@
 ### Hi there, I'm Andrew 👋 
   
-    I'm from Romania  and I'm a developer with experience in designing and implementing software solutions. Focused on C#(.Net) / JavaScript but not limited to that, always eager to learn and improve my skills.  
+    I'm from Romania  and I'm a engineer with experience in designing and implementing software solutions. Focused on C#(.Net) / JavaScript but not limited to that, always eager to learn and improve my skills.  
 
-## I'm a Student, Hardworker, Experienced Developer, and a Continuous Learner!!
+## Fresh Graduade, Hardworker, Experienced Engineer, and a Continuous Learner!!
 
 ### Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/Dumitru_Andrei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dumitru-andrei-769031199/)](https://www.linkedin.com/in/dumitru-andrei-769031199/) 
 [![Gmail Badge](https://img.shields.io/badge/-dumitru.andrei55@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dumitru.andrei55@gmail.com)](mailto:dumitru.andrei55@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/_dumitrua-cd486b?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_dumitrua/)](https://www.instagram.com/_dumitrua/)
 
 ### Languages and Tools:
 
@@ -29,6 +28,5 @@
 <br />
 <br />
 
-[instagram]:https://www.instagram.com/_dumitrua/ 
 [linkedin]: https://www.linkedin.com/in/dumitru-andrei-769031199/
 [website]: https://osf.digital/careers/jobs/osf-academy-for-students/
