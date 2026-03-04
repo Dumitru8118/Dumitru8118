@@ -2,7 +2,7 @@
   
     I am a software engineer from Romania with extensive experience in designing and implementing robust software solutions. Specializing in C# (.NET), JavaScript, and Python, I am committed to continuous learning and skill enhancement to stay at the forefront of technology.
 
-## Fresh Graduate, Hardworker, Experienced Engineer, and a Continuous Learner!!
+## Hardworker, Experienced Engineer, and a Continuous Learner!!
 
 ### Connect with me:
 
